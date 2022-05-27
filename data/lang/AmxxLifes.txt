@@ -1,0 +1,14 @@
+[ru]
+LIFE_TAG = ^1[^4Жизни^1]
+LIFE_NO_MENU = В данный момент ^4отключено!
+
+MENU_TITLE_LIFE = \r[\yLifes\r] \wМеню^nУ Вас \y%d \wжизней.
+MENU_LIFE_BUY = Купить жизнь \y%d$
+MENU_LIFE_SELL = Продать жизнь \y%d$
+MENU_LIFE_RESPAWN = Возродится
+
+LIFE_ALREADY_ALIVE = Только для ^4живых!
+LIFE_LIMIT = У Вас ^4максимум ^1жизней!
+LIFE_LIMIT_RESPAWN = Только^4 %d ^1раз!
+LIFE_BUY = Вы успешно ^4купили ^1жизнь!
+LIFE_SELL = Вы успешно ^4продали ^1жизнь!
