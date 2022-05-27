@@ -18,4 +18,4 @@ amxx_set_user_life(iIndex, iNum);
 Скомпилировать AmxxLifes.sma (Используйте компилятор 1.9.0)
 Переместить плагин в папку plugins
 Прописать в plugins.ini строчку AmxxLifes.amxx
-```# AmxxLifeSystem
+```
