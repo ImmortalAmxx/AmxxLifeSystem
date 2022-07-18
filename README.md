@@ -4,7 +4,7 @@
 
 ## Требования
 ```c
-AmxModX 1.9.0 + ReAPI 5.21.0.252
+AmxModX 1.8.3 и выше + ReAPI + ReGameDLL
 ```
 ## Нативы
 ```python
